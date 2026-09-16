@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "wl - Weight Lottery Library",
+    "min_format": 48,
+    "max_format": 2147483647
+  }
+}
