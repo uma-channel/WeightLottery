@@ -36,7 +36,7 @@ data get storage wl:io result.id
 pool の各要素に `"cmd"` のような文字列フィールドを入れておけば、抽選後にそのままコマンドとして実行できます。
 
 ```
-data modify storage wl:io pool set value [{weight:10,cmd:give @s diamond},{weight:1,cmd:give @s netherite_ingot 1}]
+data modify storage wl:io pool set value [{weight:10,cmd:"give @s diamond"},{weight:1,cmd:"give @s netherite_ingot"}]
 function wl:roll
 ```
 
