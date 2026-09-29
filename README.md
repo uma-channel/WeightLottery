@@ -21,7 +21,7 @@ pool = [
 
 ### 抽選枠の設定&抽選
 ```mcfunction
-data modify storage wl:io pool set value [{"count":1},{"id":"a","weight":10},{"id":"b","weight":3},{"id":"c","weight":1}]
+data modify storage wl:io pool set value [{count:1},{id:a,weight:10},{id:b,weight:3},{id:c,weight:1}]
 function wl:pick
 ```
 
