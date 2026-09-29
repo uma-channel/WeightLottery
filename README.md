@@ -47,7 +47,7 @@ data get storage wl:io results
 
 ### 重複ありにしたい場合（応用）
 `wl:pick`（count>=2のとき）は当選のたびに `work` からその要素を完全に取り除くことで「重複なし」を実現しています。
-「同じ景品が何回でも当たってよい（10連ガチャのようなイメージ）」にしたい場合は、`_pick_multi_step.mcfunction` の先頭で
+「同じ景品が何回でも当たる」のようにしたい場合は、`_pick_multi_step.mcfunction` の先頭で
 毎回 `data modify storage wl:io work set from storage wl:io pool` を実行してから抽選するように変更してください
 
 ### コマンドを直接実行したい場合（応用）
