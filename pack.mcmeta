@@ -2,6 +2,6 @@
   "pack": {
     "min_format": 48,
     "max_format": 2147483647,
-    "description": "Weighted Lottery / 重み付き抽選ライブラリ"
+    "description": "Weight Lottery / 重み付き抽選ライブラリ"
   }
 }
