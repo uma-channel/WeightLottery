@@ -29,6 +29,7 @@ function wl:pick
 ```mcfunction
 # 1個だけ抽選したとき（`count == 1`）
 data get storage wl:io result
+
 # 複数同時に抽選したとき（`count >= 2`）
 data get storage wl:io results
 ```
