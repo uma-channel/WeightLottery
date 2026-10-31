@@ -78,4 +78,5 @@ function wl:example_pick   # 2個を重複なしで抽選
 - 複数の同時抽選実装
 
 ## ライセンス
-LICENSEファイルを必ず確認してください
+
+詳細は [LICENSE](LICENSE) を参照。
