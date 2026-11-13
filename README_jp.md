@@ -1,3 +1,5 @@
+[English](README.md) | 日本語
+
 # Weight Lottery - 重み付きランダム抽選ライブラリ
 
 - このデータパックは
