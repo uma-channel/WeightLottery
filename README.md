@@ -1,4 +1,4 @@
-English | 日本語(README_jp.md)
+English | [日本語](README_jp.md)
 
 # Weight Lottery - Weighted Random Lottery Library
 
